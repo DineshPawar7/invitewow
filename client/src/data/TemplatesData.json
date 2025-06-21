@@ -1,0 +1,204 @@
+{
+  "wedding": [
+    {
+      "id": "template-01",
+      "title": "Modern Wedding Invite",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    },
+
+    {
+      "id": "template-02",
+      "title": "Modern Wedding Invite 2",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    }
+  ],
+
+
+
+  "birthday": [
+    {
+      "id": "template-01",
+      "title": "Modern Wedding Invite",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    },
+
+    {
+      "id": "template-02",
+      "title": "Modern Wedding Invite 2",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    }
+  ],
+
+  "holiday": [
+    {
+      "id": "template-01",
+      "title": "Modern Wedding Invite",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    },
+
+    {
+      "id": "template-02",
+      "title": "Modern Wedding Invite 2",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    }
+  ],
+
+   "corporate": [
+    {
+      "id": "template-01",
+      "title": "Modern Wedding Invite",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    },
+
+    {
+      "id": "template-02",
+      "title": "Modern Wedding Invite 2",
+      "image": "/images/wedding/wedding1.png",
+      "fields": [
+  { "type": "line1", "defaultText": "Together with their families", "style": { "top": "27%", "left": "50%", "fontSize": "15px", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line2", "defaultText": "Prerna Singh", "style": { "top": "31%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line3", "defaultText": "Sumit Gupta", "style": { "top": "43%", "left": "50%", "fontSize": "2.5rem", "color": "#a7630b", "transform": "translateX(-50%)" } },
+  { "type": "line4", "defaultText": "cordially invite you to join the occasion", "style": { "top": "55%", "left": "35%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line5", "defaultText": " of their joyous commitment on", "style": { "top": "58%", "left": "38%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line6", "defaultText": "July", "style": { "top": "62%", "left": "48%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line7", "defaultText": "sunday", "style": { "top": "67.2%", "left": "37%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line8", "defaultText": "28", "style": { "top": "67.2%", "left": "49%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line9", "defaultText": "at 8am", "style": { "top": "67.2%", "left": "55%", "fontSize": "1.2rem", "color": "#a7630b" } },
+  { "type": "line10", "defaultText": "2025", "style": { "bottom": "23%", "left": "48%", "fontSize": "1rem", "color": "#a7630b" } },
+  { "type": "line11", "defaultText": "At", "style": { "bottom": "18.5%", "left": "49.3%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line12", "defaultText": "123 Anywhere St, Any", "style": { "bottom": "14.3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line13", "defaultText": "City, St 12345", "style": { "bottom": "11%", "left": "45%", "fontSize": "0.8rem", "color": "#a7630b" } },
+  { "type": "line14", "defaultText": "Kindly RSVP before 17th", "style": { "bottom": "6%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } },
+{ "type": "line15", "defaultText": "June on +123-456-7890", "style": { "bottom": "3%", "left": "42%", "fontSize": "0.8rem", "color": "#a7630b" } }
+]
+
+    }
+  ]
+
+}

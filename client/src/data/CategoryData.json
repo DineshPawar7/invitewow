@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "https://marketplace.canva.com/EAE-Q1gDhpA/3/0/568w/canva-white-brown-rustic-floral-free-wedding-invitation-u7YCca5AZIg.jpg",
+    "title": "Elegant Wedding Invitation",
+    "buttonText": "Customize Wedding Card",
+    "slug": "wedding"
+  },
+  {
+    "id": 2,
+    "image": "https://marketplace.canva.com/EAE-Q1gDhpA/3/0/568w/canva-white-brown-rustic-floral-free-wedding-invitation-u7YCca5AZIg.jpg",
+    "title": "Kids Birthday Party",
+    "buttonText": "Design Birthday Card",
+    "slug": "birthday"
+  },
+  {
+    "id": 3,
+    "image": "https://marketplace.canva.com/EAE-Q1gDhpA/3/0/568w/canva-white-brown-rustic-floral-free-wedding-invitation-u7YCca5AZIg.jpg",
+    "title": "Corporate Event Invite",
+    "buttonText": "Create Business Invite",
+    "slug": "corporate"
+  },
+  {
+    "id": 4,
+    "image": "https://marketplace.canva.com/EAE-Q1gDhpA/3/0/568w/canva-white-brown-rustic-floral-free-wedding-invitation-u7YCca5AZIg.jpg",
+    "title": "Holiday Season Greetings",
+    "buttonText": "Make Holiday Card",
+    "slug": "holiday"
+  }
+]
